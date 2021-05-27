@@ -1,13 +1,13 @@
 body {
   background-color: whitesmoke;
-  background-image: url("9a58a48d78a0159de5415c148b887475.jpg");
+  background-image: url("img/9a58a48d78a0159de5415c148b887475.jpg");
   overflow: hidden;
 }
 
 .header {
   width: 1533px;
   background-color: rgb(70, 70,70);
-  background-image: url("thumb2-brown-pixel-camouflage-winter-camouflage-military-camouflage-pixel-camouflage-backgrounds-camouflage-textures.jpg");
+  background-image: url("img/thumb2-brown-pixel-camouflage-winter-camouflage-military-camouflage-pixel-camouflage-backgrounds-camouflage-textures.jpg");
   padding: 0;
   margin: 0;
   position: relative;
